@@ -12,8 +12,3 @@ Main features of the product:
 The project was completed in three separate stages. The first stage comprised of static pages using the Jinja2 library where most of these features were included however a page refresh was always necessary, and all posts were hard-coded. In the next stage, a REST API and Flask were added to the project, allowing for users to create posts from scratch, as well as like and comment. However, every page was still serverside dynamic, and required a page refresh after user actions. Finally, in stage 3 I utilized React to make the index page a clientside dynamic page which would update without a page refresh, and would send all user actions to the REST API after so it would also update upon refreshing.
 
 All data was stored in a local SQLlite relational database, but I understand that in a real Instagram clone this would not work, and it would be more optimal to choose a product like MySQL instead.
-
-Due to the university's academic integrity policies, I cannot attach my code, however the specs to all three projects are attached below! 
-- https://eecs485staff.github.io/p1-insta485-static/
-- https://eecs485staff.github.io/p2-insta485-serverside/
-- https://eecs485staff.github.io/p3-insta485-clientside/
