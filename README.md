@@ -1,5 +1,4 @@
 # Instagram-Clone-Description
-Description of my Instagram clone project from Web Systems class (EECS 485) at the University of Michigan
 
 The goal of this series of projects was to learn about important web development tools such as React, HTML/CSS, REST APIs, Flask, serverside and clientside dynamic pages through recreating Instagram. 
 
