@@ -15,6 +15,6 @@ The project was completed in three separate stages. The first stage comprised of
 All data was stored in a local SQLlite relational database, but I understand that in a real Instagram clone this would not work, and it would be more optimal to choose a product like MySQL instead.
 
 Due to the university's academic integrity policies, I cannot attach my code, however the specs to all three projects are attached below! 
-https://eecs485staff.github.io/p1-insta485-static/
-https://eecs485staff.github.io/p2-insta485-serverside/
-https://eecs485staff.github.io/p3-insta485-clientside/
+- https://eecs485staff.github.io/p1-insta485-static/
+- https://eecs485staff.github.io/p2-insta485-serverside/
+- https://eecs485staff.github.io/p3-insta485-clientside/
